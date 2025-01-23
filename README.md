@@ -1,4 +1,5 @@
 Esse projeto foi desenvolvido durante as aulas do Nível 03 da formação Full-Stack.
+</br>
 Desenvolvido com as seguintes tecnologias:
 HTML
 CSS
