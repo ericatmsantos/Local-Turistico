@@ -37,6 +37,7 @@ header h1 {
 header img {
   border-radius: 28px;
   height: 660px;  
+  width: 1120px;
 }
 
 header p {
@@ -56,6 +57,9 @@ header p {
 .cardTravel img {
   border-radius: 28px;
   width: 100%;
+  margin: 48px auto 20px;
+  height: 350px;
+  object-fit: cover;
 }
 
 h2 {
@@ -75,7 +79,42 @@ h2 {
   font-weight: 400;
   color: #333;
 }
-.cardTravel img {
-  height: 350px;
-  object-fit: cover;
+
+.titleList {
+  margin-bottom: 16px;
+}
+
+li {
+ color: #0C51A7;
+ font-weight: 700;
+}
+
+ul {
+  padding-left: 20px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+ul li::marker {
+  color: #333333;
+}
+
+.contentCard p {
+  color: #333;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
+li:nth-child(1) {
+  color: #591B98;
+}
+li:nth-child(2) {
+  color: #E5245E;
+}
+li:nth-child(3) {
+  color: #E95E10;
 }
