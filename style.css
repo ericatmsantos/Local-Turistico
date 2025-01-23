@@ -118,3 +118,24 @@ li:nth-child(2) {
 li:nth-child(3) {
   color: #E95E10;
 }
+
+footer{
+  text-align: center;
+}
+footer p {
+  margin-bottom: 65px;
+  line-height: 150%;
+}
+
+footer div {
+  font-family: Alice;
+  font-size: 16px;
+  line-height: 150%;
+}
+
+footer img {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin: 4px;
+}
